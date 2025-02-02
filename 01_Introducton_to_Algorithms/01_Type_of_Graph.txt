@@ -7,3 +7,5 @@
 4. Unweighted Graph
 
 5. Cyclic Graph
+
+6. Acyclic Graph (Undirected Graph)
