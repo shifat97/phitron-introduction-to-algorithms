@@ -1,0 +1,9 @@
+1. Directed Graph
+
+2. Undirected Graph
+
+3. Weighted Graph
+
+4. Unweighted Graph
+
+5. Cyclic Graph
