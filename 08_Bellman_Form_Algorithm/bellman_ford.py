@@ -34,7 +34,7 @@ for i in range(int(n) - 1):
         c = int(ed.c)
         if dist[a] != INT_MAX and dist[a] + c < dist[b]:
             cycle = True
-            break;
+            break
 
 if not cycle:
     print("DEBUG::")
