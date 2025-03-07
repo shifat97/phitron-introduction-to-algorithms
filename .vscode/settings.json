@@ -4,6 +4,9 @@
         "map": "cpp",
         "ios": "cpp",
         "vector": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "set": "cpp"
     }
 }
